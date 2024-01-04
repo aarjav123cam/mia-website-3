@@ -79,11 +79,7 @@ const Homepage = () => {
 			<div className="page-content">
 				<NavBar active="home" />
 				<div className="content-wrapper">
-					<div className="homepage-logo-container">
-						<div style={logoStyle}>
-							<Logo width={logoSize} link={false} />
-						</div>
-					</div>
+				<img className="homepage-header-image" src="backs.jpeg" alt="cambridge university backs"></img>
 
 					<div className="homepage-container">
 						<div className="homepage-first-area">
@@ -106,10 +102,17 @@ const Homepage = () => {
 											className="homepage-image"
 										/>
 									</div>
+									<div className="homepage-image-wrapper">
+										<img
+											src="homepage.jpg"
+											alt="about"
+											className="homepage-image"
+										/>
+									</div>
 								</div>
 							</div>
 						</div>
-
+						<div className="homepage-social-title">Connect with me:</div>
 						<div className="homepage-socials">
 							<a
 								href={INFO.socials.linkedin}
@@ -131,33 +134,6 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-						</div>
-
-						<div className="homepage-projects">
-							<AllProjects />
-						</div>
-
-						<div className="homepage-after-title">
-							<div className="homepage-articles">
-								{myArticles.map((article, index) => (
-									<div
-										className="homepage-article"
-										key={(index + 1).toString()}
-									>
-										<Article
-											key={(index + 1).toString()}
-											date={article().date}
-											title={article().title}
-											description={article().description}
-											link={"/article/" + (index + 1)}
-										/>
-									</div>
-								))}
-							</div>
-
-							<div className="homepage-works">
-								<Works />
-							</div>
 						</div>
 
 						<div className="page-footer">
