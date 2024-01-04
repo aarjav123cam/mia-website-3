@@ -30,49 +30,42 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Designing Cinematic Worlds: A Conversation with Katie Spencer & Sarah Greenwood",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+				"This event hosted production designers and long-time collaborators Katie Spencer and Sarah Greenwood for a retrospective look at their careers including major motion picture projects such as Pride and Prejudice (2005), Atonement (2007), Beauty and the Beast (2017) and Barbie (2023).",
+			logo: "Barbie Event.png",
+			linkText: "View Article",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Sonic Canvasses: A Conversation with Andy Earl",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
+				"This auditory-visual experience featured legendary photographer Andy Earl, responsible for creating album covers for artists including Johnny Cash, Bow Wow Wow and The Cranberries as well as music videos for the Rolling Stones. Earl discussed his creative process and development of new, cutting-edge photographic techniques.",
+			logo: "homepage.jpg",
+			linkText: "View Article",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "Master of Mimicry: A Conversation with John Myatt",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
+				"Labelled the “biggest art forger of the 20th Century”, this event featuring the exceptionally talented John Myatt discussed his journey from struggling-artist to accomplished forger. This talk was filmed on behalf of Castle Fine Art for a portfolio documentary in anticipation of a feature length movie based on Myatt’s life story.",
+			logo: "myatt.png",
+			linkText: "View Article",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 4",
+			title: "Love After Dark 2024",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+				"LAAD is the Fitzwilliam Museum Society’s flagship annual event attracting in thousands of visitors. Entirely conceived and organised by committee members, this major event brought together local artists, students and members of the public to engage in dynamic cultural exchange. Temporary installations and interactive activities offered a totally unique, sensory experience in one of the UK’s most prestigious art institutions.",
+			logo: "LAAD 2024.png",
+			linkText: "View Article",
 			link: "https://github.com",
 		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+
 	],
 };
 
