@@ -69,17 +69,21 @@
 	display: none;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 800px) {
 	.about-logo {
 		z-index: 100;
 	}
 
 	.about-main {
 		flex-direction: column;
+		display: flex;
+		justify-content: center; /* Center horizontally */
+		align-items: center;  
 	}
 
 	.about-subtitle {
 		padding-top: 20px !important;
+		
 	}
 
 	.about-left-side {
