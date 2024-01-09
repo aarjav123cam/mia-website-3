@@ -7,12 +7,11 @@ import Article from "../components/articles/article";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
+import myVoizArticles from "../data/voiz-articles";
 import "./styles/articles.css";
 
-const articles = [...myArticles];
-console.log(articles[2])
-const Articles = () => {
+const articles = [...myVoizArticles];
+const VoizArticles = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -72,4 +71,4 @@ const Articles = () => {
 	);
 };
 
-export default Articles;
+export default VoizArticles;

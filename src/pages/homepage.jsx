@@ -53,14 +53,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
-											alt="about"
-											className="homepage-image"
-										/>
-									</div>
-									<div className="homepage-image-wrapper">
-										<img
-											src="homepage.jpg"
+											src="https://drive.google.com/uc?id=1T_JPTxv4ZhBZZqkIvceUKrLjGlb8xdjn"
 											alt="about"
 											className="homepage-image"
 										/>
