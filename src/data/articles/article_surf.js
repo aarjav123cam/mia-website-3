@@ -1,6 +1,6 @@
 import React from "react";
 
-function article_voiz_1() {
+function article_surf() {
 	return {
 		date: "7 May 2023",
 		title: "Excuse me what? (Though honestly feel like maybe this turned out more like a Sustainability 101) - 5’8” Happy Channel Islands Surfboards",
@@ -28,6 +28,10 @@ function article_voiz_1() {
 						flex-direction: column;
 						align-items: center;
 					}
+					.randImage {
+                        width: 100%;
+    
+                    }
 				}
 	
 
@@ -57,7 +61,7 @@ function article_voiz_1() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://drive.google.com/uc?id=1quAfFYXhQa9Wy_UUJqxG6x-AUGLKNuUq" width="100%"  alt="random" />
+					<img src="https://storage.googleapis.com/mia_website/Editorial%20images/Surfing%20image.png" width="100%"  alt="random" />
 					<figcaption>Random Image</figcaption>
 				</figure>
 					<p>There are perhaps few people more conscious off the profound effects of global warming and rising-sea levels than the surfing community. Yet, ironically, the surfing industry is not without its own baggage when it comes to sustainability. The popularisation of tow-surfing in the 1990s and early 2000s highlighted the problematic aspects of the commercialised surf-industry. It doesn’t help that the surfing world has become increasingly saturated with all manner of pointless accessories or what SAO (Surfers Against’ Sewage) calls “traded commodities”, these items are often dreamed-up by companies looking to profit from selling a particular lifestyle or “aesthetic” to the masses. </p>
@@ -78,4 +82,4 @@ function article_voiz_1() {
 	};
 }
 
-export default article_voiz_1;
+export default article_surf;

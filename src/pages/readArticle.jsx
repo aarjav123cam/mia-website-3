@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import {useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
@@ -14,7 +14,6 @@ import "./styles/readArticle.css";
 let ArticleStyle = styled.div``;
 
 const ReadArticle = () => {
-	const navigate = useNavigate();
 	let { slug } = useParams();
 
 	const article = myArticles[slug - 1];
@@ -41,14 +40,7 @@ const ReadArticle = () => {
 				<div className="content-wrapper">
 
 					<div className="read-article-container">
-						<div className="read-article-back">
-							<img
-								src="../back-button.png"
-								alt="back"
-								className="read-article-back-button"
-								onClick={() => navigate(-1)}
-							/>
-						</div>
+
 
 						<div className="read-article-wrapper">
 							<div className="read-article-date-container">

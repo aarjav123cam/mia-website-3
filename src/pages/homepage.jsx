@@ -53,7 +53,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="https://drive.google.com/uc?id=1T_JPTxv4ZhBZZqkIvceUKrLjGlb8xdjn"
+											src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Mia_s%20Website%20Homepage%20Graphic.png"
 											alt="about"
 											className="homepage-image"
 										/>

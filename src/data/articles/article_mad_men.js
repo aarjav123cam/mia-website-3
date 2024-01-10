@@ -26,6 +26,10 @@ function article_mad_men() {
 						flex-direction: column;
 						align-items: center;
 					}
+                    .randImage {
+                        width: 100%;
+    
+                    }
 				}
 	
 
@@ -54,7 +58,7 @@ function article_mad_men() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://drive.google.com/uc?id=1VCXsTPK6KD3Xq4n23HwR1vEGjcJqLl1v" width="100%"  alt="random" />
+					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Mad%20Men%20Article%20Poster.png" width="100%"  alt="random" />
 					<figcaption>Mad Men poster</figcaption>
 				</figure>
                 <div>

@@ -34,7 +34,7 @@
 }
 
 .about-subtitle {
-	width: 80% !important;
+	width: 80%;
 }
 
 .about-left-side {
@@ -108,6 +108,16 @@
 		padding-top: 30px;
 		display: flex;
 	}
+	.about-subtitle {
+		width: 100%;
+		text-align: center;
+		display: flex;
+		align-items: center;
+	}
+	.about-title {
+		text-align: center;
+	}
+
 }
 
 @media (max-width: 600px) {
@@ -116,6 +126,9 @@
 	}
 
 	.about-image-container {
-		width: 80%;
+		width: 100%;
+	}
+	.about-image-wrapper {
+		transform: rotate(0deg);
 	}
 }

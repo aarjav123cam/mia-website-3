@@ -33,7 +33,7 @@ const INFO = {
 			title: "VOIZ Sustainability Internship Articles",
 			description:
 				"Articles I wrote during my Sustainability Internship for VOIZ. This includes sustainability reports and editorials. You can view these on my articles page.",
-			logo: "https://drive.google.com/uc?id=1Yj690rYRWugVwS1oxFCG9nJn2Nvgdd__",
+			logo: "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/VOIZ%20Graphic.png",
 			linkText: "View Articles",
 			link: "/articles",
 		}, 

@@ -23,13 +23,7 @@ function article_lemon() {
             
 			,
 		style: `
-				@media (max-width: 600px) {
-					.article-content {
-						display: flex;
-						flex-direction: column;
-						align-items: center;
-					}
-				}
+				
 	
 
 				.randImage {
@@ -50,6 +44,17 @@ function article_lemon() {
 					margin: 0.5em;
 					padding: 0.5em;
 				  }
+                  @media (max-width: 600px) {
+					.article-content {
+						display: flex;
+						flex-direction: column;
+						align-items: center;
+					}
+                    .randImage {
+                        width: 100%;
+    
+                    }
+				}  
 				`,
 		body: (
 			<React.Fragment>
@@ -57,7 +62,7 @@ function article_lemon() {
 				<h2>Lemonade: Transforming Insurance with AI and Transparency</h2>
 				<div className="article-content">
 				<figure className="randImage">
-					<img src="https://drive.google.com/uc?id=1EQlDYSy8gdN_HoJRqXaT0qJQJI_6Bb9n" width="100%"  alt="random" />
+					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Lemonade%20Poster.png" referrerPolicy="no-referrer" width="100%"  alt="random"  />
 					<figcaption>Lemonade Poster</figcaption>
 				</figure>
                 <strong>Overall rating (2.25/5): </strong>

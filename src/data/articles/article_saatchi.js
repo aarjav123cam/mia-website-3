@@ -29,6 +29,10 @@ function article_saatchi() {
 						flex-direction: column;
 						align-items: center;
 					}
+                    .randImage {
+                        width: 100%;
+    
+                    }
 				}
 	
 
@@ -58,7 +62,7 @@ function article_saatchi() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://drive.google.com/uc?id=1quAfFYXhQa9Wy_UUJqxG6x-AUGLKNuUq" width="100%"  alt="random" />
+					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Saatchi%20Gallery%20Poster.png" width="100%"  alt="random" />
 					<figcaption>Random Image</figcaption>
 				</figure>
                 <strong>Overall rating (1): </strong>
