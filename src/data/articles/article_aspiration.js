@@ -64,7 +64,7 @@ function article_aspiration() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src="https://storage.googleapis.com/mia_website/Aspiration%20Inc.%20Poster.png" referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
-					<figcaption>AspirationPoster</figcaption>
+					<figcaption>Aspiration Poster</figcaption>
 				</figure>
                 <div className="disclaimer">
 				<p><strong>Disclaimer: </strong>
