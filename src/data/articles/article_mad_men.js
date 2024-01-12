@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_mad_men() {
+  const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Mad%20Men%20Article%20Poster.png";
 	return {
 		date: "7 May 2023",
+    image: image,
 		title: "Mad Men: The elusive power of luxury",
 		description:
 			"'Mad Men' explores the complex dynamics of advertising luxury brands, highlighting the challenges and strategies involved in appealing to consumer desires and the exclusive nature of luxury goods",

@@ -2,8 +2,10 @@
 import React from "react";
 
 function article_aspiration() {
+    const image  = "https://storage.googleapis.com/mia_website/Aspiration%20Inc.%20Poster.png"
 	return {
 		date: "7 May 2023",
+        image: image,
 		title: "VOIZ Sustainability review: Aspiration - Net-zero Fintech",
 		description:
 			"Investing in Tomorrow: Aspirations Pledge for a Greener Future",
@@ -63,7 +65,7 @@ function article_aspiration() {
 				<h2>Investing in Tomorrow: Aspirations Pledge for a Greener Future</h2>
 				<div className="article-content">
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Aspiration%20Inc.%20Poster.png" referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
+					<img src={image} referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
 					<figcaption>Aspiration Poster</figcaption>
 				</figure>
                 <div className="disclaimer">

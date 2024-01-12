@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_pre_raph() {
+  const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/The%20Pre-Raphelites%20Article%20Poster.png";
 	return {
 		date: "7 May 2023",
+    image: image,
 		title: "Pre-Raphaelites: A group of rebellious, Victorian artists became the art market’s hottest commodity",
 		description:
 			"Pre-Raphaelite art has an enduring appeal and market dominance, emphasised by its revolutionary departure from Victorian norms, its impact on British culture, and the complex dynamics of its market",
@@ -62,9 +64,10 @@ function article_pre_raph() {
 				<div className="author">By Mia Warren</div>
 				<div className="article-content">
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/The%20Pre-Raphelites%20Article%20Poster.png" width="100%"  alt="random" />
+					<img src={image} width="100%"  alt="random" />
 					<figcaption>Pre Raphaelites poster</figcaption>
 				</figure>
+        
                 <div>
                 
 				<>

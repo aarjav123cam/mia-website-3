@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_saatchi() {
+	const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Saatchi%20Gallery%20Poster.png";
 	return {
 		date: "7 May 2023",
+		image: image,
 		title: "VOIZ Sustainability review: The Saatchi Gallery ",
 		description:
 			"Art with a Conscience: The Saatchi Gallery's Sustainable Evolution in the Contemporary Art Scene",
@@ -62,7 +64,7 @@ function article_saatchi() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Saatchi%20Gallery%20Poster.png" width="100%"  alt="random" />
+					<img src={image} width="100%"  alt="random" />
 					<figcaption>Random Image</figcaption>
 				</figure>
 				<div className="disclaimer">

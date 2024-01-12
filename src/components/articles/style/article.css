@@ -11,7 +11,18 @@
 .article-left-side {
 	min-width: 20%;
 	max-width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
+
+.article-image {
+	padding-top: auto;
+	vertical-align: middle;
+}
+
+  
+
 
 .article-right-side {
 	flex-basis: 80%;
@@ -32,38 +43,38 @@
 	padding-top: 30px;
 	font-size: 15px;
 	color: var(--tertiary-color);
+	font-weight: 600;
 }
 
 .article-title {
 	color: #000000;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 600;
 }
 
 .article-description {
 	padding-top: 10px;
-	font-size: 12px;
+	font-size: 14px;
 	color: var(--secondary-color);
-	font-weight: 480;
+	font-weight: 500;
 	line-height: 25px;
 }
 
 .article-link {
 	padding-top: 10px;
-	font-size: 14px;
+	font-size: 15px;
 	color: var(--link-color);
 	font-weight: 700;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 800px) {
 	.article-left-side {
-		min-width: 10%;
-		max-width: 10%;
+		min-width: 40%;
 	}
 
 	.article-right-side {
 		flex-basis: 90%;
-		min-width: 85%;
+		min-width: 60%;
 		max-width: 85%;
 	}
 }

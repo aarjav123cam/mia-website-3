@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_surf() {
+	const image = "https://storage.googleapis.com/mia_website/Editorial%20images/Surfing%20image.png";
 	return {
 		date: "7 May 2023",
+		image: image,
 		title: "Excuse me what? (Though honestly feel like maybe this turned out more like a Sustainability 101) - 5’8” Happy Channel Islands Surfboards",
 		description:
 			"Surfing faces its own sustainability challenges, from the environmental cost of surf gear to the impact of global travel. Learn how the surfing community can lead the way in eco-friendly practices and conscious consumerism.",
@@ -61,7 +63,7 @@ function article_surf() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Editorial%20images/Surfing%20image.png" width="100%"  alt="random" />
+					<img src={image} width="100%"  alt="random" />
 					<figcaption>Random Image</figcaption>
 				</figure>
 				<div className="disclaimer">

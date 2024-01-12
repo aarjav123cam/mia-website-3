@@ -2,8 +2,10 @@
 import React from "react";
 
 function article_cogo() {
+    const image = "https://storage.googleapis.com/mia_website/CoGo%20Poster.png";
 	return {
 		date: "7 May 2023",
+        image: image,
 		title: "VOIZ Sustainability review: CoGo Fintech Carbon Tracker",
 		description:
 			"This article is a sustainability-focused review of CoGo, critically examining its app's effectiveness in carbon footprint tracking, its partnerships with businesses and banks, and the ethical dilemmas inherent in its approach to environmental and social responsibility.",
@@ -63,7 +65,7 @@ function article_cogo() {
 				<h2>Assessing Impact and Integrity: A Deep Dive into CoGo's Sustainability Efforts</h2>
 				<div className="article-content">
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/CoGo%20Poster.png" referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
+					<img src={image} referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
 					<figcaption>Cogo Poster</figcaption>
 				</figure>
                 <div className="disclaimer">

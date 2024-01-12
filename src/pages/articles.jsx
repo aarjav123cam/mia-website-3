@@ -57,6 +57,7 @@ const Articles = () => {
 											title={article().title}
 											description={article().description}
 											link={"/article/" + (index + 1)}
+											image={article().image}
 										/>
 									</div>
 								))}

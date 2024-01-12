@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_monzo() {
+	const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/MONZO%20Poster.png";
 	return {
 		date: "7 May 2023",
+		image: image,
 		title: "VOIZ Sustainability review: Monzo ",
 		description:
 			"Monzo's Ethical Balance: A Deep Dive into Profit and Responsibility. This article examines how Monzo Bank, a pioneer in digital banking, strives to blend profitability with ethical banking practices, highlighting its efforts in sustainability, staff welfare, and investment transparency",
@@ -71,7 +73,7 @@ function article_monzo() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/MONZO%20Poster.png" width="100%"  alt="random" />
+					<img src={image} width="100%"  alt="random" />
 					<figcaption>Random Image</figcaption>
 				</figure>
 				<div className="disclaimer">

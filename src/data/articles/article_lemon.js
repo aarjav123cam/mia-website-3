@@ -1,8 +1,10 @@
 import React from "react";
 
 function article_lemon() {
+	const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Lemonade%20Poster.png";
 	return {
 		date: "7 May 2023",
+		image: image,
 		title: "VOIZ Sustainability review: Lemonade AI Insurance",
 		description:
 			"Lemonade: Transforming Insurance with AI and Transparency - This article delves into Lemonade's innovative approach to insurance, leveraging AI for efficient service and a unique charitable model, while also addressing the challenges and criticisms it faces in a rapidly evolving sector.",
@@ -62,7 +64,7 @@ function article_lemon() {
 				<h2>Lemonade: Transforming Insurance with AI and Transparency</h2>
 				<div className="article-content">
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Lemonade%20Poster.png" referrerPolicy="no-referrer" width="100%"  alt="random"  />
+					<img src={image} referrerPolicy="no-referrer" width="100%"  alt="random"  />
 					<figcaption>Lemonade Poster</figcaption>
 				</figure>
 				<div className="disclaimer">
