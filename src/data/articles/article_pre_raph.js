@@ -2111,10 +2111,14 @@ function article_pre_raph() {
                 </div>
 					<h2>References</h2>
 					<ol>
-						<li><a href="https://www.sas.org.uk/wp-content/uploads/2011/08/sustainable-surfing-guide-final-low-res.pdf">https://www.sas.org.uk/wp-content/uploads/2011/08/sustainable-surfing-guide-final-low-res.pdf </a></li>
-						<li><a href="https://shaka-surf.com/read/sustainability-in-surfing ">https://shaka-surf.com/read/sustainability-in-surfing </a></li>
-						<li><a href="http://ecoboard.sustainablesurf.org/what-is-an-ecoboard/">http://ecoboard.sustainablesurf.org/what-is-an-ecoboard/</a></li>
-					</ol>
+						<li>Barringer, Tim. & Rosenfield, Jason. Pre-Raphaelites: Victorian Avant-garde (2012), pp. 9-17</li>
+						<li>Brown, David, B. The Pre-Raphaelites [Exhibition Catalogue] by Leslie Parris [EXHIBITION REVIEW], Master Drawings, Vol. 22, No. 4 (1984), pp. 463-468</li>
+						<li>Dickens, Charles. Household Words, Vol. 1 (1850)</li>
+            <li>Ekkelenkamp, Mariëlle. Pre-Raphaelite Sisters [EXHIBITION REVIEW], Nineteenth-Century Art Worldwide 19, No. 1 (2020)</li>
+            <li><a href="	https://www.apollo-magazine.com/there-is-enduring-interest-in-the-stories-of-the-pre-raphaelites/">	https://www.apollo-magazine.com/there-is-enduring-interest-in-the-stories-of-the-pre-raphaelites/</a></li>
+            <li><a href="https://www.huffpost.com/entry/how-the-pre-raphaelite-stunners-became-market-stalwarts_b_594becfee4b062254f3a5c1e">https://www.huffpost.com/entry/how-the-pre-raphaelite-stunners-became-market-stalwarts_b_594becfee4b062254f3a5c1e</a></li>
+            <li>Kohl, Sarah. The Angel in the House and Fallen Women: Assigning Women their Places in Victorian Society (2016), pp. 171-177</li>
+          </ol>
 				
 				</div>
 			</React.Fragment>

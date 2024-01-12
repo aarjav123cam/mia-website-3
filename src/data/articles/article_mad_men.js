@@ -5607,11 +5607,23 @@ function article_mad_men() {
 
                 </div>
 					<h2>References</h2>
-					<ol>
-						<li><a href="https://www.sas.org.uk/wp-content/uploads/2011/08/sustainable-surfing-guide-final-low-res.pdf">https://www.sas.org.uk/wp-content/uploads/2011/08/sustainable-surfing-guide-final-low-res.pdf </a></li>
-						<li><a href="https://shaka-surf.com/read/sustainability-in-surfing ">https://shaka-surf.com/read/sustainability-in-surfing </a></li>
-						<li><a href="http://ecoboard.sustainablesurf.org/what-is-an-ecoboard/">http://ecoboard.sustainablesurf.org/what-is-an-ecoboard/</a></li>
-					</ol>
+          <ol>
+    <li>Bonin, H. & de Goey, Ferry. American Firms in Europe: Strategy, Identity, Perception and Performance (1880-1980) (2009)</li>
+    <li>Chevalier, Michel. & Mazzalovo, Gerald. Luxury Brand Management: A World of Privilege (2008)</li>
+    <li>Czyzewska, Barbara. & Roper, Angela. A Foreign Hotel in London – the History of Hilton’s Negotiation of Legitimacy in the ‘Swinging Sixties’ (2017)</li>
+    <li>Czyzewska, Barbara. The Story of Hilton Hotels: Little Americas' (2019)</li>
+    <li>Dykes, Dave, P. Product Placement in Mad Men (2016)</li>
+    <li>Jackson, Tim. A Contemporary Analysis of Global Luxury Brands (2004), pp. 155-69</li>
+    <li>Kemp, Simon. Perceiving Luxury and Necessity (1998)</li>
+    <li>Klautke, Egbert. Anti-Americanism in Twentieth-Century Europe, The Historical Journal, Vol. 54, No. 4, (2011), pp. 1125-1139</li>
+    <li>Ko, Eunju. What is a luxury brand? A New Definition and Review of the Literature, Journal of Business Research, Vol. 99, (2019), pp. 405-13</li>
+    <li>Kroes, Robert. Americanisation: What Are We Talking About? (1996), pp. 162-78</li>
+    <li>Okonkwo, Uche. Luxury retail design and atmosphere. In: Luxury Fashion Branding (2007), pp. 59-91</li>
+    <li>Tungate, Mark. Fashion Brands: Branding Style from Armani to Zara (2012)</li>
+    <li><a href="https://www.nytimes.com/2004/02/10/arts/william-b-tabler-sr-architect-of-hilton-hotels-dies-at-89.html">https://www.nytimes.com/2004/02/10/arts/william-b-tabler-sr-architect-of-hilton-hotels-dies-at-89.html</a></li>
+    <li>Wang, Yihan. Analysis on the Marketing Strategy of Hermes (2021)</li>
+</ol>
+
 				
 				</div>
 			</React.Fragment>

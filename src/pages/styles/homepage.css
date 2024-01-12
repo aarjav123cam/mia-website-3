@@ -1,5 +1,11 @@
 @import "../../data/styles.css";
 
+html, body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
 .homepage-header-image {
 	width: 100%;
 }
