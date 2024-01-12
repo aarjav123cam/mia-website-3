@@ -1,7 +1,7 @@
 import React from "react";
 
 function article_surf() {
-	const image = "https://storage.googleapis.com/mia_website/Editorial%20images/Surfing%20image.png";
+	const image = "https://storage.googleapis.com/mia_website/Sustainability%20Surfing%20Poster.jpg";
 	return {
 		date: "7 May 2023",
 		image: image,
@@ -68,9 +68,10 @@ function article_surf() {
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>
-					All information below is up to date as of July 2021. A description of the VOIZ sustainbility criteria is at the bottom of the article.
+					All information below is up to date as of July 2021. A description of this articles VOIZ sustainbility criteria is at the bottom of the article.
 					</p>
 				</div>
+				
 					<p>There are perhaps few people more conscious off the profound effects of global warming and rising-sea levels than the surfing community. Yet, ironically, the surfing industry is not without its own baggage when it comes to sustainability. The popularisation of tow-surfing in the 1990s and early 2000s highlighted the problematic aspects of the commercialised surf-industry. It doesn’t help that the surfing world has become increasingly saturated with all manner of pointless accessories or what SAO (Surfers Against’ Sewage) calls “traded commodities”, these items are often dreamed-up by companies looking to profit from selling a particular lifestyle or “aesthetic” to the masses. </p>
 					<p>But if we spend our money wisely we can avoid being part of the problem, next time you need some surf-related sportwear look for a retailer that belongs to the SAC (Sustainable Apparel Coalition), this organisation seeks to unite brands, retailers and manufacturers in a collaborative movement towards sustainable fashion. SAC not only actively works with brands to create better products but empowers consumers by using a standardised criteria to assess the social and environmental performance of different companies. So before you reach for your wallet, ask yourself – do you really need that tiki t-shirt or new polyester swimsuit? </p>
 					<p>Aside from pointless merchandise, even your surfing essentials can have a marked impact on the environment. A comparative life-cycle analysis by Sustainable Surf showed that an ECOBOARD made with bio-based epoxy resin and recycled materials had a 30% reduced carbon footprint than an ordinary PU (Polyurethane) surfboard. </p>
@@ -85,6 +86,14 @@ function article_surf() {
 					This part examines the manufacturing process, including the energy efficiency of production, the carbon footprint, and waste management practices. It looks at whether sustainable practices are implemented during the production phase.</p>
 					<p><strong>Who made it? </strong>
 					This section focuses on the social aspect of sustainability, such as labor practices, fair wages, working conditions, and the overall ethical considerations in the production chain. It assesses how the production impacts the communities involved. </p>
+				</div>
+				<div className="criteria">
+					<h1>VOIZ Article Criteria: </h1>
+					<p>A small number of VOIZ interns were selected to produce editorial content on the organisation’s website. These articles privileged brevity in order to encourage readership and were written in a conversational tone to appeal to a younger demographic. </p>
+					<p>This articles were also written according to a specific format, each of is explained below: </p>
+					<p><strong>Sustainability 101: </strong>
+					This is an educational format aimed at providing foundational knowledge about sustainability, covering basic concepts and practices in a digestible manner.</p>
+					
 				</div>
 					<h2>References</h2>
 					<ol>
