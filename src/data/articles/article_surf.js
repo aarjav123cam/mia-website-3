@@ -5,7 +5,7 @@ function article_surf() {
 	return {
 		date: "7 May 2023",
 		image: image,
-		title: "Excuse me what? (Though honestly feel like maybe this turned out more like a Sustainability 101) - 5’8” Happy Channel Islands Surfboards",
+		title: "Excuse me what? - Is Surfing Truly Sustainable?",
 		description:
 			"Surfing faces its own sustainability challenges, from the environmental cost of surf gear to the impact of global travel. Learn how the surfing community can lead the way in eco-friendly practices and conscious consumerism.",
 			keywords: [
