@@ -82,8 +82,8 @@ function article_surf() {
 					<h1>VOIZ Article Criteria: </h1>
 					<p>A small number of VOIZ interns were selected to produce editorial content on the organisation’s website. These articles privileged brevity in order to encourage readership and were written in a conversational tone to appeal to a younger demographic. </p>
 					<p>This articles were also written according to a specific format, each of is explained below: </p>
-					<p><strong>Sustainability 101: </strong>
-					This is an educational format aimed at providing foundational knowledge about sustainability, covering basic concepts and practices in a digestible manner.</p>
+					<p><strong>"Excuse me, what?" : </strong>
+					This is a critical examination of surprising or questionable sustainability practices, calling out companies’ inconsistencies or greenwashing campaigns.</p>
 					
 				</div>
 					<h2>References</h2>
