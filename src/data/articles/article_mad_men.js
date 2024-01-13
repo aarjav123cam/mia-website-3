@@ -5,7 +5,7 @@ function article_mad_men() {
 	return {
 		date: "7 May 2023",
     image: image,
-		title: "Mad Men: The elusive power of luxury",
+		title: "Mad Men: The Elusive Power of Luxury",
 		description:
 			"'Mad Men' explores the complex dynamics of advertising luxury brands, highlighting the challenges and strategies involved in appealing to consumer desires and the exclusive nature of luxury goods",
 			keywords: [
@@ -577,23 +577,10 @@ function article_mad_men() {
       >
         Fifth Avenue is home to a number of boutiques and designer outlets.
         Menken’s’ prime location is integral to the brands luxury image as “the
-        prestige store location reinforces the core brand values” (Okonkwo, U.
-        2007,{" "}
-        <em>
-          <em style={{ border: 0 }}>
-            Luxury retail design and atmosphere. In: Luxury Fashion Branding
-          </em>
-        </em>
-        , p. 79). Fifth Avenue is a major thoroughfare and therefore retail
+        prestige store location reinforces the core brand values” (Okonkwo, U.). Fifth Avenue is a major thoroughfare and therefore retail
         space in this exclusive shopping district offers Menken’s enormous
         foot-traffic and visibility while acting as “an extension of the brands
-        personality” (Okonkwo, U. 2007,{" "}
-        <em>
-          <em style={{ border: 0 }}>
-            Luxury retail design and atmosphere. In: Luxury Fashion Branding
-          </em>
-        </em>
-        , p. 80) . For this reason, the audience understands
+        personality” (Okonkwo, U.) . For this reason, the audience understands
         <em>
           <em style={{ border: 0 }}>&nbsp;why</em>
         </em>{" "}
@@ -602,13 +589,7 @@ function article_mad_men() {
         coupons or a limited-time sale they begin to lose part of the stores’
         luxury appeal, after-all designers like Hermes have proven that
         artificially inflating the price of goods “creates an aura of luxury,
-        exclusivity or higher quality” while also “raising customer curiosity” (
-        <em>
-          <em style={{ border: 0 }}>
-            Analysis on the Marketing Strategy of Hermes
-          </em>
-        </em>
-        , Yihan Wang, p. 269). Draper changes tactics and asks Rachel who
+        exclusivity or higher quality” while also “raising customer curiosity” (Wang, Y.). Draper changes tactics and asks Rachel who
         Menken’s target demographic is, she explains that they’re “not
         interested in housewives, [she] want[s] … people who don’t care about
         coupons … people are coming to the store{" "}
@@ -618,11 +599,7 @@ function article_mad_men() {
         it is expensive.” Rachel’s attitude here is indicative of a fundamental
         shift in American post-war society, the average consumer had much more
         disposable income to spare and there was an increasing “desire to buy
-        things based on feeling rather than reason” (Dykes, Dave, P. 2016,{" "}
-        <em>
-          <em style={{ border: 0 }}>Product Placement in Mad Men</em>
-        </em>
-        , p. 4).&nbsp;
+        things based on feeling rather than reason” (Dykes, D. 2016).&nbsp;
       </span>
     </span>
   </p>
@@ -1352,7 +1329,7 @@ function article_mad_men() {
           <strong style={{ border: 0 }}>&nbsp;status&nbsp;</strong>
         </strong>
         which combine to make [designer brands] more desirable for reasons other
-        than function” (Jackson, T. 2004, p.158). At this juncture Pete
+        than function” (Jackson, T.). At this juncture Pete
         Campbell, Sterling Cooper’s Account Exec, chimes in by pointing out that
         Menken’s is
         <em>
@@ -1412,13 +1389,7 @@ function article_mad_men() {
       >
         Pete’s interjection reveals a lot about how the average American
         consumer understands ‘luxury’, as Mark Tungate surmises ‘Paris has long
-        been a byword for style” (
-        <em>
-          <em style={{ border: 0 }}>
-            Fashion brands: branding style from Armani to Zara
-          </em>
-        </em>
-        , p. 7). For most people French fashion “immediately conjures up an
+        been a byword for style” (Tungate, M.). For most people French fashion “immediately conjures up an
         image of a particular style in the mind” however American fashion does
         not illicit the same response. In fact, in the early part of the
         twentieth century “America depended on Europe …. for its fashion
@@ -1482,13 +1453,7 @@ function article_mad_men() {
         sophisticated, not gaudy or overly exuberant. As Tungate convincingly
         argues, “the most effective marketing campaigns are carried out under
         the radar, their targets unaware of the ruse until it’s too late”
-        (Tungate, M. 2005,{" "}
-        <em>
-          <em style={{ border: 0 }}>
-            Fashion brands: branding style from Armani to Zara
-          </em>
-        </em>
-        , p. 248).
+        (Tungate, M.).
       </span>
     </span>
   </p>
@@ -2041,13 +2006,7 @@ function article_mad_men() {
         Printemps located in Paris which opened its own rooftop café called
         Deli-Cieux offering panoramic views of the city. These kinds of
         amenities not only enrich the customers’ shopping experience but also
-        “invite shoppers to linger, to wallow in luxury” (Okonkwo, U. 2007,{" "}
-        <em>
-          <em style={{ border: 0 }}>
-            Luxury retail design and atmosphere. In: Luxury Fashion Branding
-          </em>
-        </em>
-        , p. 72), this way customers are likely to spend more.&nbsp;
+        “invite shoppers to linger, to wallow in luxury” (Okonkwo, U.), this way customers are likely to spend more.&nbsp;
       </span>
     </span>
   </p>
@@ -4084,8 +4043,8 @@ function article_mad_men() {
       >
         Connie’s ambitions for global domination come at a unique time in 20th
         Century history as there was an “increasing receptiveness to American
-        lifestyle by the public in both London and Europe at large” (Kroes 2007,
-        Bonin and de Goey 2009, Gassert 2009) which “stemmed from the economic
+        lifestyle by the public in both London and Europe at large” (Kroes,
+        Bonin and de Goey, Gassert) which “stemmed from the economic
         differences between Europe [and America in the aftermath] … of the
         Second World War”. In other words, the world looked to America’s
         post-war economic boom as a beacon of hope. As Bonin and de Goey argue
@@ -4204,10 +4163,10 @@ function article_mad_men() {
         understood that he would not be able to compete with the palatial
         grandeur of existing hotels like The Ritz or The Lanesborough. Instead,
         he sought to redefine luxury and comfort altogether by ushering in a
-        “new era of modernity and ‘brand culture’” (Barbara Czyzewska, B. p. 4).
+        “new era of modernity and ‘brand culture’” (Czyzewska, B.).
         Hiltons’ architect, William B. Tabler, replaced the neo-classical
         architecture of London’s most iconic hotels with the “clean but
-        sometimes stark face of Corporate America” (Dunlap, David W, 2004).
+        sometimes stark face of Corporate America” (Dunlap, D.).
         Connie’s hotels were sleek and inviting, offering all the same amenities
         without the added ostentation.&nbsp;
       </span>
@@ -4848,8 +4807,7 @@ function article_mad_men() {
         ), as a consequence he is tasked with turning the cars shortcomings into
         a selling-point. Draper initially toys with the idea of marketing the
         Jaguar as a man’s ‘mistress’, while this would certainly satisfy Kemps’
-        definition of luxury as anything that is ‘beyond necessary’ (Kemp,
-        1998), he decides to change tact to avoid criticism.&nbsp;
+        definition of luxury as anything that is ‘beyond necessary’ (Kemp, S.), he decides to change tact to avoid criticism.&nbsp;
       </span>
     </span>
   </p>
@@ -5050,14 +5008,7 @@ function article_mad_men() {
         The Jaguar car as we’ve already established is the ultimate status
         symbol, Eunju Ko explains that the “consumption of luxury goods for
         status and values both allow a consumer to express and potentially
-        enhance their identity to socially important others” (Ko, E.{" "}
-        <em>
-          <em style={{ border: 0 }}>
-            What is a luxury brand? A New Definition and Review of the
-            Literature
-          </em>
-        </em>
-        , p.g 5). We see cars used as an indicator of success in Draper’s own
+        enhance their identity to socially important others” (Ko, E.). We see cars used as an indicator of success in Draper’s own
         personal life. For instance in S2 Ep 7 titled{" "}
         <em>
           <em style={{ border: 0 }}>The</em>
