@@ -77,16 +77,7 @@ function article_surf() {
 					<p>Aside from pointless merchandise, even your surfing essentials can have a marked impact on the environment. A comparative life-cycle analysis by Sustainable Surf showed that an ECOBOARD made with bio-based epoxy resin and recycled materials had a 30% reduced carbon footprint than an ordinary PU (Polyurethane) surfboard. </p>
 					<p>It doesn’t stop there, surfers can make better choices in terms of when and where they choose to surf. Globe-trotting to seek out the best possible waves might seem like an attractive prospect – after all who doesn’t fantasise about being whisked away to Hanalei Bay? But these round-the-world trips likely aren’t doing the planet any favours – why not try the waves on your own doorstep? Likewise, to avoid needlessly traveling long-distances only to find the conditions too choppy why not check out surf forecasts online in advance? </p>
 					<p>Most importantly – remember our actions can foster meaningful change. SAO‘s guide to sustainable surfing points out that surfers are often seen as “trendsetters by the general public”, in this way the surfing community could lead by example and model better behaviours for society at large. Better yet, the surfing community represents a really diverse cross-section of society, with members from all walks of life – so there’s plenty of opportunity to spread the word! </p>
-					<div className="criteria">
-					<h1>VOIZ Criteria: </h1>
-					<p>VOIZ sustainability reviews are structured using a 3-part criteria, each of which is given a numerical score between 1 and 5. </p>
-					<p><strong>What's it made of? </strong>
-					This criterion assesses the materials and ingredients used in a product, considering their environmental impact, renewability, and sustainability. It involves evaluating whether the materials are sourced responsibly and if they have a low ecological footprint.</p>
-					<p><strong>How's it made? </strong>
-					This part examines the manufacturing process, including the energy efficiency of production, the carbon footprint, and waste management practices. It looks at whether sustainable practices are implemented during the production phase.</p>
-					<p><strong>Who made it? </strong>
-					This section focuses on the social aspect of sustainability, such as labor practices, fair wages, working conditions, and the overall ethical considerations in the production chain. It assesses how the production impacts the communities involved. </p>
-				</div>
+					
 				<div className="criteria">
 					<h1>VOIZ Article Criteria: </h1>
 					<p>A small number of VOIZ interns were selected to produce editorial content on the organisation’s website. These articles privileged brevity in order to encourage readership and were written in a conversational tone to appeal to a younger demographic. </p>
