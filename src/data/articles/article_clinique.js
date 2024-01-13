@@ -7,7 +7,7 @@ function article_clinique() {
 		image: image,
 		title: "DM the CEO: Clinique",
 		description:
-			"Surfing faces its own sustainability challenges, from the environmental cost of surf gear to the impact of global travel. Learn how the surfing community can lead the way in eco-friendly practices and conscious consumerism.",
+			"This article, addressed to the CEO of Estee Lauder, scrutinises the company and its subsidiary Clinique for inconsistencies in their sustainability and ethical practices, challenging the authenticity of their environmental commitments and stance on animal testing.",
 			keywords: [
 				"Sustainability in Surfing",
 				"Mia Warren",
