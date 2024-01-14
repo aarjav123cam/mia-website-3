@@ -8,12 +8,12 @@ import article_aspiration from "./articles/article_aspiration";
 import article_cogo from "./articles/article_cogo";
 import article_clinique from "./articles/article_clinique";
 import article_superyacht from "./articles/article_superyacht";
+import article_zao from "./articles/article_zao";
 
 
 
 
-
-const myArticles = [article_lemon,article_saatchi, article_monzo,article_cogo,article_mad_men, article_pre_raph,article_clinique ,article_superyacht,article_surf,article_aspiration];
+const myArticles = [article_lemon,article_saatchi, article_monzo,article_cogo,article_mad_men, article_pre_raph,article_clinique ,article_zao,article_superyacht,article_surf,article_aspiration];
 
 export default myArticles;
 
