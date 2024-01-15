@@ -5,7 +5,7 @@ function article_pre_raph() {
 	return {
 		date: "7 May 2023",
     image: image,
-		title: "Pre-Raphaelites: A group of rebellious, Victorian artists became the art market’s hottest commodity",
+		title: "Pre-Raphaelites: The Art Market’s Hottest Commodity",
 		description:
 			"Pre-Raphaelite art has an enduring appeal and market dominance, emphasised by its revolutionary departure from Victorian norms, its impact on British culture, and the complex dynamics of its market",
 			keywords: [

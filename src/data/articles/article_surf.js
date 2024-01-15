@@ -68,7 +68,7 @@ function article_surf() {
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>
-					All information below is up to date as of July 2021. A description of this articles VOIZ sustainbility criteria is at the bottom of the article.
+					All information below is up to date as of July 2021. A description of this article's VOIZ sustainbility criteria is at the bottom of the article.
 					</p>
 				</div>
 				
@@ -81,7 +81,7 @@ function article_surf() {
 				<div className="criteria">
 					<h1>VOIZ Article Criteria: </h1>
 					<p>A small number of VOIZ interns were selected to produce editorial content on the organisation’s website. These articles privileged brevity in order to encourage readership and were written in a conversational tone to appeal to a younger demographic. </p>
-					<p>This articles were also written according to a specific format, each of is explained below: </p>
+					<p>These articles were also written according to a specific format, each of which is explained below: </p>
 					<p><strong>"Excuse me, what?" : </strong>
 					This is a critical examination of surprising or questionable sustainability practices, calling out companies’ inconsistencies or greenwashing campaigns.</p>
 					

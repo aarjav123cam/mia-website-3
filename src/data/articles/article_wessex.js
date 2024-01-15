@@ -5,7 +5,7 @@ function article_wessex() {
 	return {
 		date: "7 May 2023",
 		image: image,
-		title: "Show them the love – Wessex Water",
+		title: "Show them the Love: Wessex Water",
 		description:
 			"Amidst global water crises and infrastructure challenges, Wessex Water emerges as a beacon of innovation and efficiency in the UK, reducing leakages and enhancing water management through pioneering solutions like Coastwatch and public awareness initiatives.",
 			keywords: [
@@ -68,7 +68,7 @@ function article_wessex() {
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>
-					All information below is up to date as of July 2021. A description of this articles VOIZ sustainbility criteria is at the bottom of the article.
+					All information below is up to date as of July 2021. A description of this article's VOIZ sustainbility criteria is at the bottom of the article.
 					</p>
 				</div>
 				
@@ -80,7 +80,7 @@ function article_wessex() {
                 <div className="criteria">
 					<h1>VOIZ Article Criteria: </h1>
 					<p>A small number of VOIZ interns were selected to produce editorial content on the organisation’s website. These articles privileged brevity in order to encourage readership and were written in a conversational tone to appeal to a younger demographic. </p>
-					<p>This articles were also written according to a specific format, each of is explained below: </p>
+					<p>These articles were also written according to a specific format, each of which is explained below: </p>
 					<p><strong>Show them the love: </strong>
 					This platforms companies or organisations that are making significant positive contributions to sustainability and environmental responsibility.
 </p>

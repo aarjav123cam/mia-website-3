@@ -5,7 +5,7 @@ function article_skeletons() {
 	return {
 		date: "7 May 2023",
     image: image,
-		title: "Skeletons in the closet: Fashions complicated relationship with the horror genre",
+		title: "Skeletons in the Closet: Fashion's Complicated Relationship with the Horror Genre",
 		description:
 			"This article delves into the intricate and often overlooked relationship between fashion and the horror genre, highlighting how designers like Alexander McQueen and Rick Owens draw inspiration from horror's aesthetics and themes, and how iconic horror films like 'The Shining' and 'The Addams Family' use fashion as a fundamental element in storytelling and character development.",
 			keywords: [
