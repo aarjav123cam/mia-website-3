@@ -14,11 +14,33 @@ import article_haribo from "./articles/article_haribo";
 import article_etoro from "./articles/article_etoro";
 import article_capricorn from "./articles/article_capricorn";
 import article_skeletons from "./articles/article_skeletons";
+import article_crete from "./articles/article_crete";
+import article_vegan from "./articles/article_vegan";
 
 
 
+const myArticles = 
+[   
+    article_lemon,
+    article_saatchi, 
+    article_monzo,
+    article_etoro,
+    article_capricorn,
+    article_aspiration,
+    article_cogo,
+    article_pre_raph,
+    article_mad_men, 
+    article_skeletons,
+    article_clinique,
+    article_zao,
+    article_superyacht,
+    article_vegan,
+    article_surf,
+    article_crete,
+    article_haribo,
+    article_wessex,
 
-const myArticles = [article_lemon,article_saatchi, article_etoro,article_monzo,article_capricorn,article_cogo,article_mad_men, article_skeletons,article_pre_raph,article_clinique ,article_zao,article_superyacht,article_wessex,article_surf,article_aspiration, article_haribo];
+];
 
 export default myArticles;
 
