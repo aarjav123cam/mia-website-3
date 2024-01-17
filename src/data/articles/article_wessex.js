@@ -1,7 +1,7 @@
 import React from "react";
 
 function article_wessex() {
-	const image = "https://storage.googleapis.com/mia_website/Wessex%20Water%20Poster.jpg";
+	const image = "https://storage.googleapis.com/mia_website/Wessex%20Water.jpg";
 	return {
 		date: "7 May 2023",
 		image: image,

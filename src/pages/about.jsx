@@ -49,7 +49,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="https://storage.googleapis.com/mia_website/Mia%20Profile%20Graphic.jpg"
 											alt="about"
 											className="about-image"
 										/>

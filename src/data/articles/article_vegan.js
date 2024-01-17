@@ -59,7 +59,7 @@ function article_vegan() {
 		body: (
 			<React.Fragment>
 				<div className="author">By Mia Warren</div>
-				<h2>Can we turn the tide on sustainability? </h2>
+				<h2>Impact Beyond the Plate? </h2>
 				<div className="article-content">
 
 				<figure className="randImage">

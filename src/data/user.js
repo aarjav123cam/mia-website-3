@@ -38,6 +38,21 @@ const INFO = {
 			link: "/articles",
 		}, 
 		{
+			title: "Art Politics: In Conversation with Ai Weiwei",
+			description:
+				"The event featured the contemporary artist Ai Weiwei who discussed the vital role of interdisciplinary creativity in social activism. Attendees gained insights into how combining art, technology, and advocacy can effectively challenge the status quo and affect change.",
+			logo: "https://storage.googleapis.com/mia_website/Ai%20Weiwei%20Poster.png",
+
+		}, 
+		{
+			title: "Cambridge Fashion & Luxury Business Society Articles",
+			description:
+				"The event featured the contemporary artist Ai Weiwei who discussed the vital role of interdisciplinary creativity in social activism. Attendees gained insights into how combining art, technology, and advocacy can effectively challenge the status quo and affect change.",
+			logo: "https://storage.googleapis.com/mia_website/Cambridge%20Fashion%20%26%20Luxury%20Business%20Society%20Articles.jpg",
+			linkText: "View Article",
+			link: "/articles",
+		}, 
+		{
 			title: "Designing Cinematic Worlds: A Conversation with Katie Spencer & Sarah Greenwood",
 			description:
 				"This event hosted production designers and long-time collaborators Katie Spencer and Sarah Greenwood for a retrospective look at their careers including major motion picture projects such as Pride and Prejudice (2005), Atonement (2007), Beauty and the Beast (2017) and Barbie (2023).",
