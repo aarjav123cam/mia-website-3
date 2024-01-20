@@ -16,6 +16,7 @@ import article_capricorn from "./articles/article_capricorn";
 import article_skeletons from "./articles/article_skeletons";
 import article_crete from "./articles/article_crete";
 import article_vegan from "./articles/article_vegan";
+import article_art_collecting from "./articles/article_art_collecting";
 
 
 
@@ -29,6 +30,7 @@ const myArticles =
     article_aspiration,
     article_cogo,
     article_pre_raph,
+    article_art_collecting,
     article_mad_men, 
     article_skeletons,
     article_clinique,
