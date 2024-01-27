@@ -57,7 +57,7 @@ const INFO = {
 			title: "Designing Cinematic Worlds: A Conversation with Katie Spencer & Sarah Greenwood",
 			description:
 				"This event hosted production designers and long-time collaborators Katie Spencer and Sarah Greenwood for a retrospective look at their careers including major motion picture projects such as Pride and Prejudice (2005), Atonement (2007), Beauty and the Beast (2017) and Barbie (2023).",
-			logo: "Barbie Event.png",
+			logo: "https://storage.googleapis.com/mia_website/Designing%20Cinematic%20Worlds.jpg",
 			//linkText: "View Article",
 			//link: "https://github.com",
 		},
