@@ -1,7 +1,7 @@
 import React from "react";
 
 function article_mad_men() {
-  const image = "https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Mad%20Men%20Article%20Poster.png";
+  const image = "https://storage.googleapis.com/mia_website/Mad%20Men%20poster.png";
 	return {
 		date: "7 May 2023",
     image: image,
