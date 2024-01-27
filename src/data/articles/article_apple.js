@@ -65,7 +65,7 @@ function article_apple() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Pre Raphaelites poster</figcaption>
+					<figcaption>Apple Store poster</figcaption>
 				</figure>
                 <div>
     <p>Picture this, the year is 1967, it is The Summer of Love in San Francisco’s Haight-Ashbury neighbourhood, the fifth installation in the bond series You Only Live Twice makes a splash at the box office and The Beatles debut their eighth studio album Sgt. Pepper’s Lonely Hearts Club – an exploration of mysticism, fashion and youth culture. Riding high on the mass hysteria that was Beatlemania the British boyband decided to open up their own store in London. It would come to be known as The Apple boutique. The four young popstars saw Apple as the perfect opportunity to capitalise on their dizzying success and grow the Beatles brand with plans to use the store as a springboard for a national chain. At the time UK music, fashion and cinema were a hot cultural commodity and the Beatles were easily one of the biggest exports of the British Invasion. The store would be located at the heart of Westminster’s Marylebone district on 94 Baker street, just a little over a mile from Carnaby street – which itself had become bustling centre for independent boutiques and aspiring young designers in the 60s. </p>
