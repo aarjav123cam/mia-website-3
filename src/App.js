@@ -10,6 +10,7 @@ import ReadArticle from "./pages/readArticle";
 import Contact from "./pages/contact";
 import CV from "./pages/cv";
 import VoizArticles from "./pages/voizArticles";
+import Portfolio from "./pages/portfolio";
 import Notfound from "./pages/404";
 
 import { TRACKING_ID } from "./data/tracking";
@@ -33,6 +34,7 @@ function App() {
 				<Route path="/article/:slug" element={<ReadArticle />} />
 				<Route path="/voiz-articles/:slug" element={<ReadArticle />} />
 				<Route path="/cv" element={<CV />} />
+				<Route path="/portfolio" element={<Portfolio />} />
 				<Route path="/contact" element={<Contact />} />
 				<Route path="*" element={<Notfound />} />
 			</Routes>
