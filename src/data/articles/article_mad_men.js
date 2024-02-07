@@ -60,7 +60,7 @@ function article_mad_men() {
 				<div className="article-content">
 
 				<figure className="randImage">
-					<img src="https://storage.googleapis.com/mia_website/Mia_s%20Website%20Photos/Mad%20Men%20Article%20Poster.png" width="100%"  alt="random" />
+					<img src={image} width="100%"  alt="random" />
 					<figcaption>Mad Men poster</figcaption>
 				</figure>
                 <div>

@@ -66,7 +66,7 @@ function article_cogo() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src={image} referrerPolicy="no-referrer" width="100%"  alt="Aspiration Poster"  />
-					<figcaption>Cogo Poster</figcaption>
+					<figcaption>CoGo Poster</figcaption>
 				</figure>
                 <div className="disclaimer">
 				<p><strong>Disclaimer: </strong>

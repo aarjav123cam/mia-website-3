@@ -64,7 +64,7 @@ function article_wessex() {
 
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Zao Poster</figcaption>
+					<figcaption>Wessex Water Poster</figcaption>
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>

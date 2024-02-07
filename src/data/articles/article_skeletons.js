@@ -65,7 +65,7 @@ function article_skeletons() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Pre Raphaelites poster</figcaption>
+					<figcaption>Skeletons in the Closet Poster</figcaption>
 				</figure>
                 <div>
     <p>Halloween as a holiday has gained significant traction in the UK in recent years as people seemingly share in their morbid fascination with the dark and twisted aesthetics of horror. In fact, even the most prestigious fashion designers have drawn inspiration from the visual language of horror. In the course of his short-lived career Alexander McQueen established himself as an intrepid trailblazer who pushed the boundaries of catwalk fashion with his distinctive tailored silhouettes and extravagant headdresses.</p>

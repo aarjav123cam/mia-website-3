@@ -65,7 +65,7 @@ function article_art_collecting() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Pre Raphaelites poster</figcaption>
+					<figcaption>Art Collecting Poster</figcaption>
 				</figure>
                 <div>
 <p>

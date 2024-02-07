@@ -74,7 +74,7 @@ function article_capricorn() {
 
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>eToro Poster</figcaption>
+					<figcaption>Capricorn Poster</figcaption>
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>

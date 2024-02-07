@@ -65,7 +65,7 @@ function article_saatchi() {
 
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Random Image</figcaption>
+					<figcaption>Saatchi Poster</figcaption>
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>

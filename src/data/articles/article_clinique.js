@@ -64,7 +64,7 @@ function article_clinique() {
 
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Random Image</figcaption>
+					<figcaption>Clinique Poster</figcaption>
 				</figure>
 				<div className="disclaimer">
 				<p><strong>Disclaimer: </strong>
