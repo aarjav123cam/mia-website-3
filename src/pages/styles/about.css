@@ -26,7 +26,7 @@
 }
 
 .about-right-side {
-	flex-basis: 900px;
+	flex-basis: 1000px;
 }
 
 .about-title {
@@ -34,7 +34,7 @@
 }
 
 .about-subtitle {
-	width: 80%;
+	width: 80% !important;
 }
 
 .about-left-side {
@@ -44,7 +44,7 @@
 }
 
 .about-image-container {
-	width: 370px;
+	width: 300px;
 }
 
 .about-image-wrapper {
@@ -52,7 +52,7 @@
 	overflow: hidden;
 	width: 100%;
 	border-radius: 10%;
-	transform: rotate(3deg);
+	
 }
 
 .about-image-wrapper img {
