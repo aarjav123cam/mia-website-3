@@ -5,7 +5,7 @@ function article_art_collecting() {
 	return {
 		date: "7 May 2023",
     image: image,
-		title: "The Art Market: Breaking Down the Basics",
+		title: "Art Collecting: Breaking Down the Basics",
 		description:
 			"This article delves into the fundamental aspects of the art market, exploring the personal and aesthetic significance of art collecting, the strategic curation of collections, the adaptation of the art market to digital platforms, and the financial implications and considerations involved in art investment.",
 			keywords: [

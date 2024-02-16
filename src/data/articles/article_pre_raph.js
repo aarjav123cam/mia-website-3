@@ -65,7 +65,7 @@ function article_pre_raph() {
 				<div className="article-content">
 				<figure className="randImage">
 					<img src={image} width="100%"  alt="random" />
-					<figcaption>Pre Raphaelites poster</figcaption>
+					<figcaption>Pre-Raphaelites Poster</figcaption>
 				</figure>
         
                 <div>
@@ -1326,14 +1326,6 @@ function article_pre_raph() {
           border: 0
         }}
       >
-        <span
-          style={{ color: "rgb(59, 56, 56)", fontSize: "inherit", border: 0 }}
-        >
-          To get an idea of just how messy the brotherhoods’ romantic conquests
-          were, I have created a diagram below that details many of their most
-          famous mistresses, this guide is not comprehensive nor definitive but
-          highlights how important the role of women was in the PRB.
-        </span>
       </span>
     </span>
   </p>
